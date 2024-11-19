@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a4796f9f.css",
+    "main.js": "/static/js/main.ebd85608.js",
+    "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
+    "static/media/sfc.jpeg": "/static/media/sfc.1ac439be9f44860ca369.jpeg",
+    "static/media/dell-store.jpg": "/static/media/dell-store.716f04d09375905a5c77.jpg",
+    "static/media/asus-store.jpg": "/static/media/asus-store.5e62ef7cbdddf8ed37a8.jpg",
+    "static/media/lenovo-store.jpg": "/static/media/lenovo-store.1c1f73e5c12a15f07932.jpg",
+    "static/media/jp.jpeg": "/static/media/jp.cdd096720c4c9e9cd8a6.jpeg",
+    "static/media/uls.jpeg": "/static/media/uls.85f04f73a8e0c07d2235.jpeg",
+    "static/media/pri.jpeg": "/static/media/pri.bbb5eff50d1893518a6f.jpeg",
+    "static/media/mbp.jpeg": "/static/media/mbp.e17388f8239fdc803c46.jpeg",
+    "static/media/xps.jpeg": "/static/media/xps.26453f3027e78d716bf8.jpeg",
+    "static/media/mba.jpeg": "/static/media/mba.724a7f4cfc730c8b70f0.jpeg",
+    "static/media/rog-store.jpeg": "/static/media/rog-store.186ce9e7d764a3329f9b.jpeg",
+    "index.html": "/index.html",
+    "main.a4796f9f.css.map": "/static/css/main.a4796f9f.css.map",
+    "main.ebd85608.js.map": "/static/js/main.ebd85608.js.map",
+    "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4796f9f.css",
+    "static/js/main.ebd85608.js"
+  ]
+}
